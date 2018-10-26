@@ -27,7 +27,7 @@ var lowercase = string
     return string.toLowerCase()
   }
     //console.log('hello')
-}
+
 
 var uppercase = `string`
   if (uppercase.toUpperCase() === uppercase){
