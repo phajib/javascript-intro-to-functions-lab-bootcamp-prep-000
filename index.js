@@ -35,7 +35,7 @@ var uppercase = `string`
   }
 
 //var loveYou = string
-  if (string === 'I love you, Grandma'){
+  if (sayHiToGrandma(string) === 'I love you, Grandma'){
       console.log('I love you too')
       //return loveYou
   }
