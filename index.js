@@ -28,12 +28,14 @@ var lowercase = string
   }
     //console.log('hello')
 }
-/*var uppercase = `string`
+
+var uppercase = `string`
   if (uppercase.toUpperCase() === uppercase){
     console.log('YES INDEED!')
   }
 
-  if (`string` === 'I love you, Grandma'){
+var = loveYou = string
+  if (loveYou === 'I love you, Grandma'){
       console.log("I love you too")
   }
-}*/
+}
