@@ -34,8 +34,8 @@ var uppercase = `string`
     console.log('YES INDEED!')
   }
 
-var loveYou = string
-  if (loveYou === 'I love you, Grandma'){
+//var loveYou = string
+  if (string === 'I love you, Grandma'){
       console.log('I love you too')
       //return loveYou
   }
