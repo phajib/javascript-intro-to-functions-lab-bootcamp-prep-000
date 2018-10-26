@@ -25,12 +25,10 @@ var lowercase = string
   {
     console.log('I can\'t hear you')
     return string.toLowerCase()
-  }else {
-    console.log('hello')
   }
-  return string
+    console.log('hello')
 
-var uppercase = `string`
+/*var uppercase = `string`
   if (uppercase.toUpperCase() === uppercase){
     console.log('YES INDEED!')
   }
@@ -39,3 +37,4 @@ var uppercase = `string`
       console.log("I love you too")
   }
 }
+*/
