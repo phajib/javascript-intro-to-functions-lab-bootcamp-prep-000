@@ -23,18 +23,18 @@ function sayHiToGrandma(string){
 var lowercase = string
   if(lowercase.toLowerCase() === lowercase){
     console.log('I can\'t hear you')
-    return string.toLowerCase()
+    //return string.toLowerCase()
   }
 
 var uppercase = string
   if (uppercase.toUpperCase() === uppercase){
     console.log('YES INDEED!')
-    return string.toUpperCase()
+    //return string.toUpperCase()
   }
 
 var loveYou = string
   if (loveYou === 'I love you, Grandma'){
-      //console.log('I love you too')
-      return `I love you too`
+      console.log('I love you too')
+      //return `I love you too`
   }
 }
