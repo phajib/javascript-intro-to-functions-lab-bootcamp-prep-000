@@ -27,7 +27,7 @@ var lowercase = string
     return string.toLowerCase()
   }
     console.log('hello')
-
+}
 /*var uppercase = `string`
   if (uppercase.toUpperCase() === uppercase){
     console.log('YES INDEED!')
@@ -36,5 +36,4 @@ var lowercase = string
   if (`string` === 'I love you, Grandma'){
       console.log("I love you too")
   }
-}
-*/
+}*/
