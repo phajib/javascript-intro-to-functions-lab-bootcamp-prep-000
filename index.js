@@ -29,12 +29,12 @@ var lowercase = string
 var uppercase = string
   if (uppercase.toUpperCase() === uppercase){
     console.log('YES INDEED!')
-    //return string.toUpperCase()
+    return 'YES INDEED!'
   }
 
 var loveYou = string
   if (loveYou === 'I love you, Grandma'){
-      console.log('I love you too')
-      //return `I love you too`
+      //console.log('I love you too')
+      return `I love you too`
   }
 }
