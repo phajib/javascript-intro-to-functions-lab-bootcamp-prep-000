@@ -26,6 +26,7 @@ var lowercase = string
     //console.log('I can\'t hear you')
     return string.toLowerCase()
   }
+  return string
     //console.log('hello')
 
 
